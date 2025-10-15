@@ -8,26 +8,34 @@ A modern full-stack e-commerce application built with React and Django. This pro
   - User registration and login
   - JWT-based authentication
   - Secure password validation
+<img width="663" height="351" alt="Picture1" src="https://github.com/user-attachments/assets/b0d740f5-43ce-4461-829c-f8b1c2bee086" />
+
 
 - ### Product Management ###
   - Browse products with pagination
   - Detailed product views with images
   - Product search and filtering
+<img width="663" height="351" alt="landing" src="https://github.com/user-attachments/assets/fdb13b21-0759-4d23-a3b1-6d1b7f3ea480" />
 
 - ### Shopping Cart ###
   - Add/remove items from cart
   - Persistent cart across sessions
   - Real-time cart updates
+<img width="663" height="351" alt="cart" src="https://github.com/user-attachments/assets/4baf066b-a947-41bd-ae64-0b2d358369ad" />
+
 
 - ### Order Management ###
   - Create orders from cart items
   - Order history tracking
   - Order status updates (Ordered, In delivery, Delivered)
+<img width="663" height="351" alt="comenzi" src="https://github.com/user-attachments/assets/b28a56ea-891f-408b-975d-cd6c2677ed49" />
 
 - ### User Profile ###
   - User account management
   - Order history viewing
   - Profile customization
+  <img width="663" height="351" alt="profile" src="https://github.com/user-attachments/assets/c3c7510a-1aa6-48b2-930f-99a9c921d40a" />
+
 
 ## Architecture
 
