@@ -189,25 +189,9 @@ licenta/
 - Delivery information (name, address, city, country)
 - Date tracking and user association
 
-##  Technologies Used
+### Database Diagram
+<img width="1543" height="1036" alt="db" src="https://github.com/user-attachments/assets/9bc2177a-a0eb-4da1-b8bb-93b436758891" />
 
-### Frontend
-- **React 18** - UI library
-- **Vite** - Build tool and dev server
-- **Chakra UI** - Component library
-- **React Router v6** - Client-side routing
-- **React Query** - Data fetching and caching
-- **Axios** - HTTP client
-- **Framer Motion** - Animation library
-
-### Backend
-- **Django 4.2** - Web framework
-- **Django REST Framework** - API framework
-- **Simple JWT** - JWT authentication
-- **MySQL** - Database
-- **Pillow** - Image processing
-- **django-cors-headers** - CORS handling
-- **django-environ** - Environment variables
 
 
     
