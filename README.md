@@ -34,7 +34,7 @@ A modern full-stack e-commerce application built with React and Django. This pro
 This project follows a modern full-stack architecture:
 
 ### Frontend (`/online_store/`)
-- **Framework**: React 18 with Vite
+- **Framework**: React with Vite
 - **UI Library**: Chakra UI for modern components
 - **State Management**: React Query for server state management
 - **Routing**: React Router v6 for client-side routing
